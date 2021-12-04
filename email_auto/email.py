@@ -25,5 +25,6 @@ email.HTMLBody = f"""
 #anexo = "C://urser/eu/download/arquivo.xlsx"
 #email.Attachments.add(anexo)
 
+
 email.send()
 print("email enviado")
